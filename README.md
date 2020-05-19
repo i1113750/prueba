@@ -19,3 +19,9 @@ probando
   	2.- Mantener una distancia minimo de 1 metro
   	3.- Pagame. 
   	pd. Buen dia de antemano
+
+## Probando nuevamente
+	-probando la
+	nueva subida
+	En 3..2..1
+	
