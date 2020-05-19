@@ -24,4 +24,7 @@ probando
 	-probando la
 	nueva subida
 	En 3..2..1
-	
+
+## Los cambios en dev.v1
+	-Primero estos cambios son acordes al mercado
+	-Mas simple y amigable
