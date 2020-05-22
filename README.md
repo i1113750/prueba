@@ -4,7 +4,7 @@ probando
 ## Creditos
     -yerry
     
-## Requerimientos
+## Requerimientos de software
 | Software     | version    | Pagina |
 | -------------|------------|-------|
 | vcs          | 3.2        | www.vagoz.com   |
@@ -27,41 +27,40 @@ probando
 
 ## <b> REQUERIMIENTOS </b>
 
-    <i>REQUERIMIENTOS FUNCIONALES </i>
+    REQUERIMIENTOS FUNCIONALES 
+    --------------------------
+
+   El sistema permitira ingresar datos del cliente en la reserva.
+
+   El sistema mostrara el monto a pagar segun los dias de estadia en el tipo de ambiente.
+   
+   El sistema permitira mantener una reserva de un ambiente por 24 horas.
+
+   El sistema permitira confirmar una reserva de un ambiente pagando.
+
+   El sistema debe permitir al usuario registrar una reserva de un ambiente.
+
+   El sistema debe mostrar mensajes de error al usuario al momento de no realizar bien el proceso.
+
+   El sistema permitira visualizar una reserva.
+
+   El sistema permitira finalizar una reserva.
+
+    REQUERIMIENTOS NO FUNCIONALES
     -----------------------------------
 
-    <li type="square">El sistema permitira ingresar datos del cliente en la reserva.</li>
-    <li type="square">El sistema mostrara el monto a pagar segun los dias de estadia
-en el tipo de ambiente.</li>
+    La interfaz del sistema debe de ser intuitivo.
 
-    <li type="square">El sistema permitira mantener una reserva de un ambiente por 24 horas.</li>
+    El sistema debe de cumplir los procesos de la reserva.
 
-    <li type="square">El sistema permitira confirmar una reserva de un ambiente pagando.</li>
+    El sistema no debe demorar  mas de 5min en realizar una reserva.
 
-    <li type="square">El sistema debe permitir al usuario registrar una reserva de un ambiente.</li>
+    El sistema no debe demorar mas de 5s en mostrar una reserva.
 
-    <li type="square">El sistema debe mostrar mensajes de error al usuario al momento de no realizar bien el proceso.</li>
-
-    <li type="square">El sistema permitira visualizar una reserva.</li>
-
-    <li type="square">El sistema debe permitir modificar una reserva.</li>
-
-    <li type="square">El sistema permitira finalizar una reserva.</li>
-
-    <i>REQUERIMIENTOS NO FUNCIONALES </i>
-    -----------------------------------
-
-    <li type="square">La interfaz del sistema debe de ser intuitivo.</li>
-    <li type="square">El sistema debe de cumplir los procesos de la reserva.</li>
-
-    <li type="square">El sistema no debe demorar  mas de 5min en realizar una reserva.</li>
-
-    <li type="square">El sistema no debe demorar mas de 5s en mostrar una reserva.</li>
-
-    <li type="square">El sistema debe funcionar los 24 dias de la semana.</li>
+    El sistema debe funcionar los 24 dias de la semana.
     
-    <li type="square">El sistema debe contener los colores representativos de la empresa.</li>
+    El sistema debe contener los colores representativos de la empresa.
 
-    <li type="square">El sistema debe ser responsive.</li>
+    El sistema debe ser responsive.
 
-    <li type="square">La pagina del sistema debe poder utilizarse con Firefox y Chrome.</li>
+    La pagina del sistema debe poder utilizarse con Firefox y Chrome.
